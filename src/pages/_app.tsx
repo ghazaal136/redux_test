@@ -5,11 +5,7 @@ import type { AppProps } from 'next/app';
 
 //NEXT FONT OPTIMIZATION
 import { iranSans } from '@/utils/fontsConfig';
-import { useCallback, useEffect, useState } from 'react';
-import MemberAndLoginCheckModal from '@/components/basicComponents/memberCheckModal';
-import { usePathname } from 'next/navigation';
-import { checkTokenValidation } from '@/utils/appServices';
-import LoginModal from '@/components/loginModal';
+
 
 export default function App({ Component, pageProps }: AppProps) {
   return (

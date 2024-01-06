@@ -1,0 +1,56 @@
+$bg-primary: #1d2333;
+$bg-dark: #161b27;
+$main-color: #00f0ff;
+
+$text-color: white;
+
+$gray-02: #c4c4c4;
+
+$purple-01: #241853;
+$purple-02: #443580;
+$purple-03: #8978cc;
+$purple-04: #9d48ff;
+
+$purple-svg: #1b1534;
+$gray-svg: #292d32;
+
+$gray-02: #c4c4c4;
+
+$bg-tag: rgba(23,76,92,36%);
+// $bg-tag: #174c5c;
+$lightBlue: #00f0ff;
+
+// ----------- Icon Colors
+$stream-color: #ff035e;
+
+// ----------- Font Family
+$font-persian: "iranSansX", "roboto", "Serif";
+$font-english: "roboto", "iranSansX", "Serif";
+
+$chat-colors: (
+  "1": #91F261,
+  "2": #4F0,
+  "3": #70E0D8,
+  "4": #0FF,
+  "5": #FAF264,
+  "6": #FFFB00,
+  "7": #458EE6,
+  "8": #0062D9,
+  "9": #FF66E0,
+  "10": #FF1AD1,
+  "11": #D478F9,
+  "12": #BD19FF,
+  "13": #8749F2,
+  "14": #7100FF,
+  "15": #FF6D33,
+  "16": #FF4800,
+);
+// ---------- BOOTSTRAP CUSTOM
+// ---- MEDIA QUIRIES BREAKPOINTS
+/* breakpoints bootstrap */
+$breakpoint-xs-custom: 0;
+$breakpoint-sm-custom: 576px;
+$breakpoint-md-custom: 768px;
+$breakpoint-lg-custom: 1024px;
+$breakpoint-xl-custom: 1200px;
+$breakpoint-xxl-custom: 1400px;
