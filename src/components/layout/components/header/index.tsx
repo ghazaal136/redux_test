@@ -58,37 +58,6 @@ const Header = ({
             {icons.hamburger_menu()}
           </Box>
         </IconButton>
-        {/* <Box
-          sx={{
-            width: "4.0625rem",
-            height: "3.4375rem",
-            ml: 1.5,
-            mr:5,
-            position: "relative",
-            overflow: "hidden",
-          }}
-        >
-          <ImageComponent
-            src={"/carpet/logos/gs_logo.png"}
-            alt='logo'
-            defaultPicture={"/carpet/logos/gs_logo.png"}
-          />
-        </Box> */}
-
-        {/* <Box
-          sx={{
-            width: "3.4375rem",
-            height: "3.125rem",
-            position: "relative",
-            overflow: "hidden",
-          }}
-        >
-          <ImageComponent
-            src={"/carpet/logos/logo.png"}
-            alt='logo'
-            defaultPicture={"/carpet/logos/logo.png"}
-          />
-        </Box> */}
       </Toolbar>
     </AppBar>
   );
